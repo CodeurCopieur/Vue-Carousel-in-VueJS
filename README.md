@@ -1,4 +1,6 @@
-# vue-carousel
+# Vue-carousel
+>[Vue Carousel](https://github.com/SSENSE/vue-carousel) :
+>Nous allons ajouter un carrousel. Utilisation du package Vue Js Vue-carousel. Je vais inclure ce package et le configurer pour le faire fonctionner étape par étape.
 
 ## Project setup
 ```
